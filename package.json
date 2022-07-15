@@ -1,0 +1,11 @@
+{
+  "name": "redis-basics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jokernomade/redis-basics",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "redis": "^4.2.0"
+  }
+}
