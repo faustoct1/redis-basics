@@ -1,4 +1,4 @@
-# this repo has been transfer to me :)
+this repo has been transfer to me :)
 
 # redis-basics
 Comandos básicos do redis
